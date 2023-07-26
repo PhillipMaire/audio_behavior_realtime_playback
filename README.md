@@ -1,9 +1,10 @@
-Using Psychtoolbox in matlab this code is for interfacing with hires lab audio behavior designed by Phillip Maire. 
-the script runs on a MBP and arduino to interface with a real time linux state machine, to play audio and light stimuli during neural recordings. 
-see flow diagram below
-<iframe width="560" height="315" src="https://youtu.be/RyJk5Tv9Aes" frameborder="0" allowfullscreen></iframe>
+Using Psychtoolbox in matlab. This code is for interfacing with hires lab audio behavior designed by Phillip Maire. 
+The script runs on a MBP and arduino to interface with a real time linux state machine, to play audio and light stimuli during neural recordings to study multisensory interaction in the cortex. 
 
+see flow diagram video below
 
-check out my website [DeepDataPhil.com](https://DeepDataPhil.com)
+https://private-user-images.githubusercontent.com/19584564/256378615-6bc94493-30c6-4f3d-875d-0305812b6932.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTA0MTEzMzgsIm5iZiI6MTY5MDQxMTAzOCwicGF0aCI6Ii8xOTU4NDU2NC8yNTYzNzg2MTUtNmJjOTQ0OTMtMzBjNi00ZjNkLTg3NWQtMDMwNTgxMmI2OTMyLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA3MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwNzI2VDIyMzcxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4NGZiNzVkYjFmNDEyMmNlNWY1Y2YxZWUzZTFiMWZkMTNmMmU2YTZlMzRmOTc3MGI1MzU3Zjc3ZWZlMTYwOTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DuqIP45EyUex6k43p9Fg_iOra3RK9Sf616XUEPb_Hmc
+
+check out my website [DeepDataPhil.com](DeepDataPhil.comm)
 
 
