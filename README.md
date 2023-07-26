@@ -1,5 +1,4 @@
-Psychtoolbox in matlab tool for interfacing with hires lab audio behavior designed by Phillip Maire. 
-the script runs on a MBP and arduino to interface with a real time linux state machine, see flow diagram below
+
 <!DOCTYPE html>
 <html>
 <head>
