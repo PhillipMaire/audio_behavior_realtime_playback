@@ -1,29 +1,9 @@
+Using Psychtoolbox in matlab this code is for interfacing with hires lab audio behavior designed by Phillip Maire. 
+the script runs on a MBP and arduino to interface with a real time linux state machine, to play audio and light stimuli during neural recordings. 
+see flow diagram below
+<iframe width="560" height="315" src="https://youtu.be/RyJk5Tv9Aes" frameborder="0" allowfullscreen></iframe>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flickity@2.3.2/dist/flickity.min.css">
-  <style>
-    /* Add any additional custom styles here */
-  </style>
-</head>
-<body>
-  <div class="carousel">
-    <img src="./images/Audio behavior for git-9 (dragged).png" alt="Image 1">
-    <img src="./images/Audio behavior for git-10 (dragged).png" alt="Image 2">
-    <img src="./images/Audio behavior for git-11 (dragged).png" alt="Image 3">
-    <!-- Add more images as needed -->
-  </div>
 
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/flickity@2.3.2/dist/flickity.pkgd.min.js"></script>
-  <script>
-    $(document).ready(function() {
-      $('.carousel').flickity({
-        // Add any carousel options here
-        // For example: wrapAround: true, autoPlay: true, etc.
-      });
-    });
-  </script>
-</body>
-</html>
+check out my website [DeepDataPhil.com](https://DeepDataPhil.com)
+
+
