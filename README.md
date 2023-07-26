@@ -10,9 +10,9 @@ the script runs on a MBP and arduino to interface with a real time linux state m
 </head>
 <body>
   <div class="carousel">
-    <img src="Audio behavior for git-9 (dragged).tiff" alt="Image 1">
-    <img src="Audio behavior for git-10 (dragged).tiff" alt="Image 2">
-    <img src="Audio behavior for git-11 (dragged).tiff" alt="Image 3">
+    <img src="./images/Audio behavior for git-9 (dragged).tiff" alt="Image 1">
+    <img src="./images/Audio behavior for git-10 (dragged).tiff" alt="Image 2">
+    <img src="./images/Audio behavior for git-11 (dragged).tiff" alt="Image 3">
     <!-- Add more images as needed -->
   </div>
 
