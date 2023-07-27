@@ -18,7 +18,7 @@ A) Normalized amplitude difference from original audio and audio playback from b
 
 
 
-Check out my website [DeepDataPhil.com](DeepDataPhil.comm)
+Check out my website [DeepDataPhil.com](DeepDataPhil.com)
 
 This work was performed in [Dr. Samuel Andrew Hires lab](https://www.hireslab.org/). 
 
