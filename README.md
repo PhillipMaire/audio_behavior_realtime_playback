@@ -1,7 +1,7 @@
 Using Psychtoolbox in matlab. This code is for interfacing with hires lab audio behavior designed by Phillip Maire. 
 The script runs on a MBP and arduino to interface with a real time linux state machine, to play audio and light stimuli during neural recordings to study multisensory interaction in the cortex. 
 
-##see narrated flow diagram video below
+## see narrated flow diagram video below
 
 https://github.com/PhillipMaire/audio_behavior_realtime_playback/assets/19584564/4a34bc7a-9fc3-46b4-8650-0dc03f6fdb43
 
